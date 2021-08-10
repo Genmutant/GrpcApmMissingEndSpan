@@ -1,0 +1,13 @@
+﻿syntax = "proto3";
+package transaction;
+
+service TransactionService{
+	rpc Description(DescriptionRequest) returns (DescriptionResponse){}
+}
+
+message DescriptionRequest {
+}
+
+message DescriptionResponse {
+	string message = 1;
+}
