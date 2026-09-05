@@ -14,7 +14,7 @@
 
         <elastic-apm.version>1.25.1-SNAPSHOT</elastic-apm.version>
 
-        <grpc.version>1.39.0</grpc.version>
+        <grpc.version>1.84.0</grpc.version>
         <!--grpc.version>1.39.0</grpc.version-->
         <!--grpc.version>1.32.2</grpc.version-->
         <protobuf.version>3.13.0</protobuf.version>
