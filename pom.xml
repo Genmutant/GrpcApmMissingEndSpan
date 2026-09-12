@@ -12,7 +12,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
-        <elastic-apm.version>1.25.1-SNAPSHOT</elastic-apm.version>
+        <elastic-apm.version>1.57.0</elastic-apm.version>
 
         <grpc.version>1.39.0</grpc.version>
         <!--grpc.version>1.39.0</grpc.version-->
